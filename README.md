@@ -1,5 +1,5 @@
 # Wealth Ledger
-
+**Developed using Qwen Flash 3.8 from Qoder IDE**
 **Your whole net worth, in one JSON file, on your own machine.**
 
 A local web app that consolidates a scattered portfolio — bank accounts and fixed deposits in one
